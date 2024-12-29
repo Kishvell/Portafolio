@@ -337,7 +337,7 @@ button:hover {
 
 .contacto {
     display: flex;
-    background-image: url("/images/Contacto.jpg");
+    background: url("../images/Contacto.jpg");
     background-size: cover;
     align-items: center;
     justify-content: center;
