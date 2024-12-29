@@ -315,7 +315,8 @@ button:hover {
 }
 
 .experience__img {
-    width: 60%;
+    width: 500px;
+    height: auto;
     margin-bottom: 2%;
 }
 
