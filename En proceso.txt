@@ -1,0 +1,18 @@
+       <!-- Contacto -->
+        <section class="contacto" id="contacto">
+            <div  class="formularioContacto">
+                <div class="scrol"></div>
+                <div class="formcontato__text">
+                    <h2>CONTACTO</h2> <br>
+                    <p>¿Quieres contactarme?</p> <br>
+                    <p>Complete el formulario y hablamos</p> <br>
+                    <form class="formcontato__form" name="form">
+                        <input class="formcontato__input" type="text" name="nombre" placeholder="Nombre">
+                        <input class="formcontato__input" type="email" name="email" placeholder="E-mail">
+                        <input class="formcontato__input" type="text" name="asunto" placeholder="Assunto">
+                        <textarea class="formcontato__textarea" rows="5" cols="40" id="mensagem" name="mensaje" placeholder="Mensaje"></textarea>
+                        <button type="submit" class="formcontato__botao">Enviar mensaje</button>
+                    </form>
+                </div>
+            </div>
+        </section>
